@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47352'
     url: http://www.gutenberg.org/2009/agents/47352
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70311#Uusia-maailmoita-vanhojen-sijaan
 gutenberg_issued: '2023-03-17'
 identifiers:
   gutenberg: '70311'
